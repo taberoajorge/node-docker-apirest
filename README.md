@@ -17,18 +17,18 @@ Bienvenido a la API rest dockerizada. Para esta API se utiliza NodeJs para su cr
 
 Revisa la documentación de [Docker engine](https://docs.docker.com/engine/install/) para más información.
 
-Steps
+**Steps**
 
 1. Ingresa al directorio
 	
 
     cd docker-node-app
 
-Construye el contenedor.
+2. Construye el contenedor.
 
     $ sudo docker build -t node-restapi .
    
-Inícialo.
+3. Inícialo.
 
 > Para recibir el log en CLI
 

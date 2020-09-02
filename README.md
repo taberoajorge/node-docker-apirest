@@ -14,6 +14,7 @@ Bienvenido a la API rest dockerizada. Para esta API se utiliza NodeJs para su cr
 
 **Nota**
 > docker engine debe estar instalado en el sistema.
+>EL archivo dockerfile contiene las dependencias necesarias para el deployment de la API rest
 
 Revisa la documentación de [Docker engine](https://docs.docker.com/engine/install/) para más información.
 
